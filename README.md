@@ -1,2 +1,1 @@
-# acuity-deployment-scripts
-Bugbounty POC by @nvk0x
+# Bugbounty POC by @nvk0x
